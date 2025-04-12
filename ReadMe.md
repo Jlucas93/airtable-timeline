@@ -24,6 +24,7 @@
 - Date Library Integration: I would utilize a mature date library like date-fns or dayjs to handle date calculations more consistently and avoid potential browser compatibility issues.
 - Accessibility Improvements: I would focus more on keyboard navigation, screen reader support, and ARIA attributes to make the timeline more accessible.
 - Implement a mobile version due to time constraints, but responsive support would be a priority in future iterations.
+- Implement a button to delete the event.
 - Automatic Scrolling: Instead of relying on Next/Back buttons for navigation, I would implement smooth automatic scrolling triggered by user gestures, enhancing usability and making the experience feel more natural and fluid.
 - Zoom Functionality: I implemented basic zoom support as a bonus feature, but it's still a bit rough and may contain minor bugs. Given the time constraints and since it was optional, I chose to prioritize core functionality and overall stability before polishing the zoom behavior.
 
